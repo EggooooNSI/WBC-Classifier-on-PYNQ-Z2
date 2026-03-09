@@ -7,7 +7,7 @@ FPGA-accelerated White Blood Cell (WBC) classifier using Quantitative Phase Imag
 This project implements a ResNet10-based classifier for three types of white blood cells:
 - Monocyte
 - Granulocyte  
-- Basophil + Lymphocyte (merged class)
+- Lymphocyte
 
 The model is optimized for FPGA deployment using Tensil AI's neural network compiler, achieving:
 - **16-channel model**: 90% accuracy @ 105.7 FPS
