@@ -289,27 +289,6 @@ tensil compile -a pynqz1.tarch -m your_model.onnx -o output_name
 # 4. Deploy (same as Option 1)
 ```
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@inproceedings{yourpaper2026,
-  title={FPGA-Accelerated White Blood Cell Classification using Quantitative Phase Imaging},
-  author={Your Name},
-  booktitle={IEEE NEMS Conference},
-  year={2026}
-}
-```
-
-## License
-
-[Add your license here]
-
-## Contact
-
-[Add your contact information here]
-
 ## Troubleshooting
 
 **Q: "ModuleNotFoundError: No module named 'tcu_pynq'"**  
