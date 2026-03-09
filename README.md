@@ -94,7 +94,7 @@ Train your own model from scratch and compile it for FPGA.
 - Python 3.8+
 - PyTorch 1.10+
 - ONNX
-- Tensil AI toolchain ([installation guide](https://www.tensil.ai/docs/))
+- Tensil AI toolchain ([installation guide](https://github.com/tensil-ai/tensil))
 
 #### Steps:
 
