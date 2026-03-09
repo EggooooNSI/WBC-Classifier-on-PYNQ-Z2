@@ -76,11 +76,11 @@ Use pre-compiled Tensil AI files without retraining or recompiling.
 #### Available Models:
 
 - **16-channel model** (faster):
-  - Files: `resnet10_new_tensil_fp32_16ch_32x32_onnx_pynqz1.*`
+  - Files: `resnet10_tensil_fp32_16ch_32x32_onnx_pynqz1.*`
   - Performance: 105.7 FPS, 90% accuracy
   
 - **32-channel model** (more accurate):
-  - Files: `resnet10_32ch_fp32_16x16_onnx_pynqz1.*`
+  - Files: `resnet10_new_32ch_fp32_16x16_onnx_pynqz1.*`
   - Performance: 51.7 FPS, 94% accuracy
 
 ---
